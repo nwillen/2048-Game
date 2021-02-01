@@ -1,0 +1,56 @@
+table {
+    background-color: grey;
+    margin: auto;
+    border-radius: 3%;
+}
+
+td {
+    border: 1px solid lightgray;
+    font-size: 50px;
+    color: #fff;
+    border-radius: 10%;
+    font-family: 'Courier New';
+    animation-duration: .5s;
+  }
+
+html {
+    background-color: lightseagreen;
+}
+
+#score{
+    color: white;
+    font-family: 'Courier New';
+}
+
+p{
+    color: white;
+    font-family: 'Courier New';
+}
+
+#data {
+    text-align: center;
+    font-weight: bold;
+}
+
+#reset {
+    border-radius: 6px;
+    font-size: 20px;
+    border: 4px solid gray;
+    background-color: lightblue;
+    font-family: 'Courier New';
+    color: lightslategray;
+    font-weight: bold;
+}
+
+#title{
+    font-weight: bold;
+    font-size: 80px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-family: 'Courier New';
+}
+
+
+
+
